@@ -4,3 +4,5 @@ basic-types
 compilation-context
 interface
 class
+generic
+scss-test
